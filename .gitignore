@@ -1,0 +1,7 @@
+target/
+dados/
+*.csv
+.idea/
+*.iml
+.vscode/
+.DS_Store
